@@ -63,15 +63,22 @@ Bagaswoto, P. B., Krisdinarti, L., & Erika, M. (2016). Scoring System Based on E
 
 ---
 
-### Session 3 — [30/10/2026]
-#### Ce que j'ai fait
-- Analyse critique d'un article scientifique (*Scoring System Based on Electrocardiogram Features to predict HF*).
-- Identification de la problématique, des objectifs, de la méthodologie, des résultats et des limites du modèle de score ECG.
-- Relevé et analyse des ambiguïtés statistiques et méthodologiques du document.
+Session 3 — Analyse Critique d'Article & Évaluation Statistique
 
-#### Ce que j'ai appris
-- Méthodologie d'analyse d'un article médical/technique (régression logistique, rapports de cotes / OR, sensibilité et spécificité via courbe ROC).
-- Évaluation critique des données et détection d'incoヒーrences ou d'ambiguïtés dans une publication.
+Ce que j'ai fait
 
-#### Difficultés rencontrées
-- Aucune.
+Analyse critique approfondie de l'article scientifique (Scoring System Based on Electrocardiogram Features to predict HF).
+
+Identification méthodique de la problématique, des objectifs, de la méthodologie, des résultats et des limites du modèle de score ECG.
+
+Relevé et analyse synthétique des ambiguïtés statistiques et méthodologiques présentées dans le document.
+
+Ce que j'ai appris
+
+Méthodologie d'analyse d'un article médical/technique (régression logistique, rapports de cotes / OR, sensibilité et spécificité via courbe ROC).
+
+Évaluation critique des données brutes et détection d'incohérences ou d'ambiguïtés dans une publication scientifique.
+
+Difficultés rencontrées
+
+Aucune.
